@@ -2,3 +2,5 @@ data/
 *.pt
 *.pth
 *.ttf
+*.gif
+*.png
